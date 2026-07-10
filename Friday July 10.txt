@@ -1,0 +1,12 @@
+Finish up the first project.  Create the JS and make sure the function works as per the instructions.  You are hard-coding a userid for each of the three screens for now.  You may use inline JS as per the instructions or use an event listener or event handler in the JS file.  
+
+Then do the Update messages PDF.
+
+Then Sales One P3 - Sales Rep.pdf - use an event handler
+
+Then Sales one Project Customers 2026.... pdf - use an event listener
+
+You'll have all three ways as examples.  
+
+This should set up the JS functions for each of the screens.  Next week, we will update the functionality to use JSON so when we login correctly - it will take us to the landing page (page with radio buttons) or not.  
+
