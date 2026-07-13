@@ -1,0 +1,70 @@
+
+//create a function called loadColors that will create the option elements for 
+//the select element that is created in generatePage
+//return all of the options so that when called in window.onload, the options are 
+//correctly formatted in HTML, just create four right now in an array
+//Please Select, Red, Pink, Green, Yellow, make the value the same as the words
+//shown to the user - in the array
+
+function loadColors()
+{
+}
+
+
+//create a function called generatePage that creates all of the elemens
+//seen in the PDF screen shots
+//use createElement, setAttribute, appendChild and append methods
+//make sure when creating elements to assign all necessary attributes for 
+//a full working form
+
+function generatePage() {
+    //create a main element for box formatting seen in the pdf
+    const main = document.createElement("main");
+
+    //create h1 or h2 element and append the child element to the main element
+    //append all child elements in order to the main element just created
+
+
+    // create a form element and give it an ID attribute of color-form
+
+
+    // you may create a div element to hold the labels, input, select and first button
+    //append this as a child of the main, you'll use this new div as the parent for the
+    //form elements
+
+
+    // create labels for the name input and color dropdown and button information
+    // just create the select here, we'll grab the select element in window.onload
+    // and use our options function to finish out the dropdown
+    // make sure all attributes required for a real form 
+    //are accounted for in the code (for, id, name, class if needed)
+    //append them as children to the div in order; you may also append breaks in 
+    //addition to type selectors in css or classes
+
+    
+
+    // create a horizontal rule under the form for when we add a list of student colors
+    //add the h1 or h2 per the pdf
+
+    //add a new empty div with an id of favorite-colors for when we work on the 
+    //function for the button to "add the student and color"
+
+
+
+
+    // add a button for clearing colors - we will add the functionality later
+    
+    //append the entire main element with children to the document
+
+}
+
+
+window.onload = () => {
+    //call the page creation function
+    
+
+    // Load the colors for the dropdown menu with a function.
+    
+    
+    };
+  
